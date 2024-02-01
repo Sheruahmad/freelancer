@@ -155,3 +155,10 @@
     color: white;
     line-height: 65px;
 }
+@media screen and (max-width: 1349px)
+{
+    .header.menu.header1.contain.about
+    {
+        width: 100%;
+    }
+}
